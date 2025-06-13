@@ -6,7 +6,7 @@ from aiogram.client.default import DefaultBotProperties
 
 load_dotenv()
 
-BOT_TOKEN="8199864701:AAHUWxSWpeEfF6cVZqfuwJYcpNTbOiUoY2E"
+BOT_TOKEN="Bot Token"
 ADMIN_IDS=[7776081021]
 
 bot = Bot(token=BOT_TOKEN, default=DefaultBotProperties(parse_mode="HTML"))
